@@ -1,0 +1,272 @@
+{
+  "project_info": {
+    "project_number": "569425711168",
+    "project_id": "qbaytek",
+    "storage_bucket": "qbaytek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569425711168:android:491d69ada5651ba3c10fa5",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFShGc6hOlzyOiWdQmBH7Y6qgqnyMy_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569425711168-6cd4fs7j7hia3qf572gu3l682oq5rqa5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chen.QbayMerchantApp-test",
+                "app_store_id": "1546171060"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569425711168:android:543c8683dff47edac10fa5",
+        "android_client_info": {
+          "package_name": "com.qbay.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569425711168-smqkv8u6i6tr3knqbob0uojg5b3ag98l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qbay.business",
+            "certificate_hash": "9d63a1a0081927ff007f1ca78e99dc6e9137d654"
+          }
+        },
+        {
+          "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFShGc6hOlzyOiWdQmBH7Y6qgqnyMy_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569425711168-6cd4fs7j7hia3qf572gu3l682oq5rqa5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chen.QbayMerchantApp-test",
+                "app_store_id": "1546171060"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569425711168:android:5af40127d6242373c10fa5",
+        "android_client_info": {
+          "package_name": "com.qbay.business.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569425711168-vp0l2n269ve7oo9r4sp5f4itfcci7bsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qbay.business.dev",
+            "certificate_hash": "9d63a1a0081927ff007f1ca78e99dc6e9137d654"
+          }
+        },
+        {
+          "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFShGc6hOlzyOiWdQmBH7Y6qgqnyMy_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569425711168-6cd4fs7j7hia3qf572gu3l682oq5rqa5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chen.QbayMerchantApp-test",
+                "app_store_id": "1546171060"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569425711168:android:d1acbb4778929841c10fa5",
+        "android_client_info": {
+          "package_name": "com.qbaytek.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569425711168-ctbl8jrd31d65jo5ptp9oes90jr95345.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qbaytek.customer",
+            "certificate_hash": "9d63a1a0081927ff007f1ca78e99dc6e9137d654"
+          }
+        },
+        {
+          "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFShGc6hOlzyOiWdQmBH7Y6qgqnyMy_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569425711168-6cd4fs7j7hia3qf572gu3l682oq5rqa5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chen.QbayMerchantApp-test",
+                "app_store_id": "1546171060"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569425711168:android:dddef7670e5f55f5c10fa5",
+        "android_client_info": {
+          "package_name": "com.qbaytek.customer.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569425711168-72nfakc4h9057uk02t2kpkjjk41e8gu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qbaytek.customer.dev",
+            "certificate_hash": "9d63a1a0081927ff007f1ca78e99dc6e9137d654"
+          }
+        },
+        {
+          "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFShGc6hOlzyOiWdQmBH7Y6qgqnyMy_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569425711168-6cd4fs7j7hia3qf572gu3l682oq5rqa5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chen.QbayMerchantApp-test",
+                "app_store_id": "1546171060"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569425711168:android:26ec5ade6d7a7baec10fa5",
+        "android_client_info": {
+          "package_name": "com.qbaytek.customer.rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569425711168-mju09vmlaug1qo84tniu6jar0aqi4hhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qbaytek.customer.rn",
+            "certificate_hash": "71d585b98eb8d61660d59d1d6d3e2afa65daeba7"
+          }
+        },
+        {
+          "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFShGc6hOlzyOiWdQmBH7Y6qgqnyMy_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569425711168-5lr1uk7rcg40lbierrfmo237ptrd12q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569425711168-6cd4fs7j7hia3qf572gu3l682oq5rqa5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chen.QbayMerchantApp-test",
+                "app_store_id": "1546171060"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
